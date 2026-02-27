@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=28a745&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Leonardo+Pedroso!+👋;Engenheiro+de+Software;Backend+Developer;Ciência+da+Computação;Apaixonado+por+Docker+e+Node.js" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1>👨‍💻 Leonardo Pedroso</h1>
+  <p><b>Engenheiro de Software | Backend Developer | Graduando em Ciência da Computação</b></p>
+
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localização-Franca,%20SP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Node.js%20%26%20Docker-orange?style=flat-square" />
+</div>
+
+---
 
 **Engenheiro de Software | Backend & DevOps** Focado na criação de soluções escaláveis, automação de processos e infraestrutura moderna. Atualmente aprofundando conhecimentos teóricos através da graduação em Ciência da Computação.
 
