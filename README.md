@@ -1,10 +1,13 @@
-# Olá, eu sou o Leonardo Pedroso 👋
+<div align="center">
+  <h1>👨‍💻 Leonardo Pedroso</h1>
+  <p><b>Engenheiro de Software | Backend Developer | Graduando em Ciência da Computação</b></p>
 
-> Desenvolvedor focado em soluções escaláveis de backend, integração de IA e práticas de DevOps. 
-> Atualmente cursando Ciência da Computação na **Uni FACEF**.
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localização-Franca,%20SP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Node.js%20%26%20Docker-orange?style=flat-square" />
+</div>
 
-![Especialidade](https://img.shields.io/badge/Especialidade-Backend%20Engineering-green?style=for-the-badge&logo=node.js)
-![Cloud](https://img.shields.io/badge/Infra-Docker%20%26%20Azure-blue?style=for-the-badge&logo=docker)
+---
 
 ---
 
