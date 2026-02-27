@@ -4,7 +4,7 @@
 
 **Engenheiro de Software | Backend & DevOps** Focado na criação de soluções escaláveis, automação de processos e infraestrutura moderna. Atualmente aprofundando conhecimentos teóricos através da graduação em Ciência da Computação.
 
-### 🐍 Snake Game
+### 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dev-leopedroso/dev-leopedroso/output/github-contribution-grid-snake.svg)
 
 ---
