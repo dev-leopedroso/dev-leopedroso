@@ -1,4 +1,6 @@
-# Olá, eu sou o Leonardo Pedroso! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Leonardo+Pedroso!+👋;Engenheiro+de+Software;Backend+Developer+(Node.js);Graduando+em+Ciência+da+Computação;Especialista+em+Docker+e+DevOps" alt="Typing SVG" />
+</p>
 
 **Engenheiro de Software | Backend & DevOps** Focado na criação de soluções escaláveis, automação de processos e infraestrutura moderna. Atualmente aprofundando conhecimentos teóricos através da graduação em Ciência da Computação.
 
