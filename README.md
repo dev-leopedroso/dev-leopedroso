@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=28a745&center=true&vCenter=true&width=600&lines=LEONARDO+PEDROSO;Engenheiro+de+Software;Backend+Developer;Ciência+da+Computação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=28a745&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Leonardo+Pedroso!+👋;Engenheiro+de+Software;Backend+Developer;Ciência+da+Computação;Apaixonado+por+Docker+e+Node.js" alt="Typing SVG" />
 </p>
 
 **Engenheiro de Software | Backend & DevOps** Focado na criação de soluções escaláveis, automação de processos e infraestrutura moderna. Atualmente aprofundando conhecimentos teóricos através da graduação em Ciência da Computação.
